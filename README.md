@@ -98,9 +98,9 @@ Python/SimPy production-line simulation + AI prediction + RL control.
 
 ## 📫 Contact
 
-- **Email:** raychien.ai@gmail.com *(可自訂)*  
-- **GitHub:** https://github.com/RayChien  
-- **LinkedIn (optional):** *(可加入)*  
+- **Email:** thomasrcchien@gmail.com  
+- **GitHub:** [https://github.com/RayChien ](https://github.com/ThomAS122102RAY) 
+- **LinkedIn:** https://www.linkedin.com/in/%E7%9D%BF%E4%BF%8A-%E7%B0%A1-67161b28b/
 
 ---
 
