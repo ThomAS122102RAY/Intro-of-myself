@@ -69,7 +69,7 @@ My work spans medical imaging, industrial defect detection, and production-line 
 
 ---
 
-## 🔧 Featured Projects
+## 🔧 Featured Projects (including future todos)
 
 ### 🔹 **PanNuke Cell Segmentation — TransUNet + DINO**
 Full pipeline for multi-organ pathology segmentation with transformer-based features.
