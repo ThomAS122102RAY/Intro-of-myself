@@ -1,9 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="banner.png" width="100%" alt="Ray Chien Banner"/>
+  <img width="1024" height="1024" alt="ChatGPT Image 2025年11月23日 下午11_03_18" src="https://github.com/user-attachments/assets/add5a34a-7459-4645-8d7e-a80cba01f33c" />
 </p>
 
 <br>
+
 
 <h1 align="center">👋 Hi, I'm <strong>Ray Chien</strong></h1>
 <h3 align="center">
